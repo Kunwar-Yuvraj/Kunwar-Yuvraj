@@ -2,9 +2,6 @@
 
 <h3 align="center">A passionate Software Engineering undergraduate at SJCE JSSSTU, Mysuru, India</h3>
 
-
-<p align="center">
-  <a href="https://dharshi.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/portfolio-purple?style=for-the-badge&logo=pc&logoColor=white"></a>  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kunwar-yuvraj-625123325/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:yuvrajkunwar29@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </p>
