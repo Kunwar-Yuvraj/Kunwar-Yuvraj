@@ -3,6 +3,12 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=2A93F7&vCenter=true&multiline=true&random=true&width=435&lines=Hi%F0%9F%91%8B!+I%27m+Kunwar+Yuvraj" alt="Typing SVG" /></a></h3>
 
+<p align="center">
+        <a href="https://longtao.fun">
+            <img src="cat.webp" width="50"/>
+        </a>
+  </p>
+
 <h3 align="center">A passionate Software Engineering undergraduate at SJCE JSSSTU, Mysuru, India</h3>
 
 <p align="center">
